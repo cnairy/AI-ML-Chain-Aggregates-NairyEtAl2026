@@ -1,0 +1,4 @@
+method,input_representation,precision,recall,f1_score,false_positives,false_negatives,pr_auc
+Random Forest,Morphological descriptors,0.470,0.681,0.556,53,22,0.579
+XGBoost,Morphological descriptors,0.439,0.681,0.534,60,22,0.458
+ResNet34 CNN,Particle image,0.949,0.812,0.875,3,13,0.964
