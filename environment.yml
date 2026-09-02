@@ -1,0 +1,25 @@
+name: chain-aggregates-jtech
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scikit-image
+  - imbalanced-learn
+  - xgboost
+  - pytorch
+  - torchvision
+  - pillow
+  - opencv
+  - xarray
+  - tqdm
+  - joblib
+  - pip
+  - pip:
+      - rembg

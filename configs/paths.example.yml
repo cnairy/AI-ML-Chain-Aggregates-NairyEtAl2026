@@ -1,0 +1,13 @@
+# Example path inventory for the audited scripts.
+# The current scripts retain their original per-file path variables, with
+# machine-specific prefixes replaced by /path/to/... placeholders.
+data:
+  nasa_impacts_root: /path/to/nasa_impacts_data
+  processed_cpi_images: /path/to/processed_cpi_images
+  descriptor_tables: /path/to/descriptor_tables
+  labeled_splits: /path/to/labeled_splits
+models:
+  cnn_training_outputs: /path/to/cnn_training_outputs
+  selected_resnet34_checkpoint: /path/to/selected_resnet34_checkpoint.pt
+outputs:
+  repository_outputs: /path/to/repository_outputs
