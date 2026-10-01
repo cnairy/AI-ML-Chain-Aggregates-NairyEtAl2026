@@ -1,6 +1,6 @@
 # Assessment of Machine Learning Classification of Ice Crystal Chain Aggregates
 
-Reproducibility code for the Nairy et al. *Journal of Atmospheric and Oceanic Technology* manuscript on classifying ice-crystal chain aggregates in aircraft-collected cloud-particle imagery.
+Reproducibility code for the Nairy et al. American Meteorological Society (AMS) *Artificial Intelligence for the Earth Systems (AIES)* manuscript on classifying ice-crystal chain aggregates in aircraft-collected cloud-particle imagery.
 
 ## Repository contents
 
